@@ -1,0 +1,32 @@
+.container{
+	width: 920px;
+	margin: auto;
+}
+
+.header{
+	text-align: center;
+	font-family: 'Nova Mono', monospace;
+}
+
+.header__banner{
+	max-width: 300px;
+}
+
+
+.article{
+	font-family: 'Roboto Mono', monospace;	
+}
+
+.article--html{
+	background-color: #F16529;
+}
+.article--css{
+	background-color: #379AD6;
+}
+.article--js{
+	background-color: #F1BF26;
+}
+
+.article__shield{
+	max-width: 100px
+}
